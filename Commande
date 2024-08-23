@@ -1,0 +1,9 @@
+# Iyas_projet_1
+#Une calculatrice scientifique 
+# une calculatrice scientifique
+reel1 = int(input ("entrer la valeur du réel 1"))
+reel2 = int(input ("entrer la valeur du réel 2 ")) 
+résultats = reel1 + reel2
+
+
+print ("la somme est" , résultats)
